@@ -8,8 +8,10 @@ Project created for "JS1K 2013" competition
 Curious system simulator. 
 
 Added two Javascript files 
-solar_system.js -> Original Code 
-solar_system_min.js -> obfuscated code 
+
+### solar_system.js -> Original Code
+
+### solar_system_min.js -> obfuscated code 
 
 Change Log
 ==========
