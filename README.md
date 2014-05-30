@@ -11,7 +11,9 @@ Added two Javascript files
 solar_system.js -> Original Code 
 solar_system_min.js -> obfuscated code 
 
-Change Log 
-0.1.x 
+Change Log
+==========
+
+### 0.1.x 
 
 Initial version.
