@@ -13,7 +13,6 @@ Added two Javascript files
 
 ### solar_system_min.js -> obfuscated code 
 
-
 Change Log
 ==========
 
