@@ -1,11 +1,11 @@
-tiny_solar_system_JS1K
+tiny solar system JS1K 2013
 ======================
 
 tiny solar system JS1K
 
 Project created for "JS1K 2013" competition 
 
-Curious system simulator. 
+Curious solar system simulator. 
 
 Added two Javascript files 
 
