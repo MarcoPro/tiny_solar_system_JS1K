@@ -3,7 +3,7 @@ tiny solar system JS1K 2013
 
 tiny solar system JS1K
 
-[DEMO](demo/index.html)
+[DEMO](http://marcopro.github.io/tiny_solar_system_JS1K/demo/index.html)
 
 ![Tiny Solar Sytem](http://oi57.tinypic.com/105s6cj.jpg)
 
