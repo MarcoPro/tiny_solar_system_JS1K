@@ -3,6 +3,8 @@ tiny solar system JS1K 2013
 
 tiny solar system JS1K
 
+[DEMO](demo/index.html)
+
 ![Tiny Solar Sytem](http://oi57.tinypic.com/105s6cj.jpg)
 
 Project created for "JS1K 2013" competition 
